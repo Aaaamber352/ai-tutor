@@ -559,7 +559,7 @@
             displayProjectIdeas(projectIdeas);
         }
 
-        // Function to generate project ideas using predefined templates
+        // Function to generate project ideas
         function generateProjectIdeas(topic) {
             const ideaTemplates = [
                 `Write an essay on how ${topic} impacted daily life during the Medieval period.`,
